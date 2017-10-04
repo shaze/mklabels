@@ -1,5 +1,5 @@
 
-#Creating barcode labels for  printing out
+# Creating barcode labels for  printing out
 
 This script takes as input a list of IDs and then produces barcodes for the inputs and formats it in a form suitable for printing on labels.
 
